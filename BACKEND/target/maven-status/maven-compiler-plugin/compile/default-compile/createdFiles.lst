@@ -1,0 +1,6 @@
+com/chatapp/model/ChatMessage.class
+com/chatapp/config/WebSocketConfig.class
+com/chatapp/config/CorsConfig$1.class
+com/chatapp/ChatAppApplication.class
+com/chatapp/controller/ChatController.class
+com/chatapp/config/CorsConfig.class

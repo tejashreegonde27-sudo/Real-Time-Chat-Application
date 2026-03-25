@@ -1,0 +1,5 @@
+/workspaces/Real-Time-Chat-Application/BACKEND/src/main/java/com/chatapp/ChatAppApplication.java
+/workspaces/Real-Time-Chat-Application/BACKEND/src/main/java/com/chatapp/controller/ChatController.java
+/workspaces/Real-Time-Chat-Application/BACKEND/src/main/java/com/chatapp/config/WebSocketConfig.java
+/workspaces/Real-Time-Chat-Application/BACKEND/src/main/java/com/chatapp/config/CorsConfig.java
+/workspaces/Real-Time-Chat-Application/BACKEND/src/main/java/com/chatapp/model/ChatMessage.java
